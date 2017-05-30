@@ -1,0 +1,6 @@
+C:\Basura\Pecera\Pecera\bin\Debug\Pecera.exe.config
+C:\Basura\Pecera\Pecera\bin\Debug\Pecera.exe
+C:\Basura\Pecera\Pecera\bin\Debug\Pecera.pdb
+C:\Basura\Pecera\Pecera\obj\Debug\Pecera.csprojResolveAssemblyReference.cache
+C:\Basura\Pecera\Pecera\obj\Debug\Pecera.exe
+C:\Basura\Pecera\Pecera\obj\Debug\Pecera.pdb

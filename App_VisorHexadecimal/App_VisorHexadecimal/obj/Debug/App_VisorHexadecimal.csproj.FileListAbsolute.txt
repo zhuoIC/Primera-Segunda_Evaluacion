@@ -1,0 +1,6 @@
+C:\Basura\App_VisorHexadecimal\App_VisorHexadecimal\bin\Debug\App_VisorHexadecimal.exe.config
+C:\Basura\App_VisorHexadecimal\App_VisorHexadecimal\bin\Debug\App_VisorHexadecimal.exe
+C:\Basura\App_VisorHexadecimal\App_VisorHexadecimal\bin\Debug\App_VisorHexadecimal.pdb
+C:\Basura\App_VisorHexadecimal\App_VisorHexadecimal\obj\Debug\App_VisorHexadecimal.csprojResolveAssemblyReference.cache
+C:\Basura\App_VisorHexadecimal\App_VisorHexadecimal\obj\Debug\App_VisorHexadecimal.exe
+C:\Basura\App_VisorHexadecimal\App_VisorHexadecimal\obj\Debug\App_VisorHexadecimal.pdb

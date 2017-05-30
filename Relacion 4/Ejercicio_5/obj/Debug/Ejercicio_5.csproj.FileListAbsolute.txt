@@ -1,0 +1,6 @@
+C:\Basura\Relacion 4\Ejercicio_5\bin\Debug\Ejercicio_5.exe.config
+C:\Basura\Relacion 4\Ejercicio_5\bin\Debug\Ejercicio_5.exe
+C:\Basura\Relacion 4\Ejercicio_5\bin\Debug\Ejercicio_5.pdb
+C:\Basura\Relacion 4\Ejercicio_5\obj\Debug\Ejercicio_5.csprojResolveAssemblyReference.cache
+C:\Basura\Relacion 4\Ejercicio_5\obj\Debug\Ejercicio_5.exe
+C:\Basura\Relacion 4\Ejercicio_5\obj\Debug\Ejercicio_5.pdb

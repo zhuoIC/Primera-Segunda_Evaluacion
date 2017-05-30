@@ -1,0 +1,7 @@
+C:\Basura\ControlBancario\BancoTEST\bin\Debug\BancoTEST.dll
+C:\Basura\ControlBancario\BancoTEST\bin\Debug\BancoTEST.pdb
+C:\Basura\ControlBancario\BancoTEST\bin\Debug\Banco.exe
+C:\Basura\ControlBancario\BancoTEST\bin\Debug\Banco.pdb
+C:\Basura\ControlBancario\BancoTEST\obj\Debug\BancoTEST.csprojResolveAssemblyReference.cache
+C:\Basura\ControlBancario\BancoTEST\obj\Debug\BancoTEST.dll
+C:\Basura\ControlBancario\BancoTEST\obj\Debug\BancoTEST.pdb

@@ -1,0 +1,5 @@
+C:\Basura\Relacion 5\Ejercicio 04\bin\Debug\Ejercicio 04.exe.config
+C:\Basura\Relacion 5\Ejercicio 04\bin\Debug\Ejercicio 04.exe
+C:\Basura\Relacion 5\Ejercicio 04\bin\Debug\Ejercicio 04.pdb
+C:\Basura\Relacion 5\Ejercicio 04\obj\Debug\Ejercicio 04.exe
+C:\Basura\Relacion 5\Ejercicio 04\obj\Debug\Ejercicio 04.pdb

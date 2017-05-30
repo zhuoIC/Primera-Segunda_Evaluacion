@@ -1,0 +1,7 @@
+C:\Basura\Relacion 4\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Basura\Relacion 4\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Basura\Relacion 4\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Basura\Relacion 4\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Basura\Relacion 4\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
+C:\Basura\Relacion 4\Ejercicio 2\bin\Debug\Ejercicio 2.exe.CodeAnalysisLog.xml
+C:\Basura\Relacion 4\Ejercicio 2\bin\Debug\Ejercicio 2.exe.lastcodeanalysissucceeded

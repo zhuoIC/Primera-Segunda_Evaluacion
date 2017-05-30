@@ -1,0 +1,6 @@
+C:\Basura\App_Clases\App_Clases\bin\Debug\App_Clases.exe.config
+C:\Basura\App_Clases\App_Clases\obj\Debug\App_Clases.csprojResolveAssemblyReference.cache
+C:\Basura\App_Clases\App_Clases\bin\Debug\App_Clases.exe
+C:\Basura\App_Clases\App_Clases\bin\Debug\App_Clases.pdb
+C:\Basura\App_Clases\App_Clases\obj\Debug\App_Clases.exe
+C:\Basura\App_Clases\App_Clases\obj\Debug\App_Clases.pdb

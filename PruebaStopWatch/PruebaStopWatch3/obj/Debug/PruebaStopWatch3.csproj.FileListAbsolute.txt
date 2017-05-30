@@ -1,0 +1,6 @@
+C:\Basura\PruebaStopWatch\PruebaStopWatch3\bin\Debug\PruebaStopWatch3.exe.config
+C:\Basura\PruebaStopWatch\PruebaStopWatch3\bin\Debug\PruebaStopWatch3.exe
+C:\Basura\PruebaStopWatch\PruebaStopWatch3\bin\Debug\PruebaStopWatch3.pdb
+C:\Basura\PruebaStopWatch\PruebaStopWatch3\obj\Debug\PruebaStopWatch3.csprojResolveAssemblyReference.cache
+C:\Basura\PruebaStopWatch\PruebaStopWatch3\obj\Debug\PruebaStopWatch3.exe
+C:\Basura\PruebaStopWatch\PruebaStopWatch3\obj\Debug\PruebaStopWatch3.pdb

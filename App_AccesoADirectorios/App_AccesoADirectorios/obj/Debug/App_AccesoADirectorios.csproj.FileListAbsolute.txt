@@ -1,0 +1,6 @@
+C:\Basura\App_AccesoADirectorios\App_AccesoADirectorios\bin\Debug\App_AccesoADirectorios.exe.config
+C:\Basura\App_AccesoADirectorios\App_AccesoADirectorios\bin\Debug\App_AccesoADirectorios.exe
+C:\Basura\App_AccesoADirectorios\App_AccesoADirectorios\bin\Debug\App_AccesoADirectorios.pdb
+C:\Basura\App_AccesoADirectorios\App_AccesoADirectorios\obj\Debug\App_AccesoADirectorios.csprojResolveAssemblyReference.cache
+C:\Basura\App_AccesoADirectorios\App_AccesoADirectorios\obj\Debug\App_AccesoADirectorios.exe
+C:\Basura\App_AccesoADirectorios\App_AccesoADirectorios\obj\Debug\App_AccesoADirectorios.pdb

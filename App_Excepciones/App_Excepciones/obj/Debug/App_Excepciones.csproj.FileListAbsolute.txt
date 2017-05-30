@@ -1,0 +1,6 @@
+C:\Basura\App_Excepciones\App_Excepciones\bin\Debug\App_Excepciones.exe.config
+C:\Basura\App_Excepciones\App_Excepciones\bin\Debug\App_Excepciones.exe
+C:\Basura\App_Excepciones\App_Excepciones\bin\Debug\App_Excepciones.pdb
+C:\Basura\App_Excepciones\App_Excepciones\obj\Debug\App_Excepciones.csprojResolveAssemblyReference.cache
+C:\Basura\App_Excepciones\App_Excepciones\obj\Debug\App_Excepciones.exe
+C:\Basura\App_Excepciones\App_Excepciones\obj\Debug\App_Excepciones.pdb

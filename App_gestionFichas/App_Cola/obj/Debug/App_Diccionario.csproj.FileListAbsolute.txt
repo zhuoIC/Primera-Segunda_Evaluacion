@@ -1,0 +1,6 @@
+C:\Basura\App_gestionFichas\App_Cola\obj\Debug\App_Diccionario.csprojResolveAssemblyReference.cache
+C:\Basura\App_gestionFichas\App_Cola\bin\Debug\App_Cola.exe.config
+C:\Basura\App_gestionFichas\App_Cola\bin\Debug\App_Cola.exe
+C:\Basura\App_gestionFichas\App_Cola\bin\Debug\App_Cola.pdb
+C:\Basura\App_gestionFichas\App_Cola\obj\Debug\App_Cola.exe
+C:\Basura\App_gestionFichas\App_Cola\obj\Debug\App_Cola.pdb

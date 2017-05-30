@@ -1,0 +1,5 @@
+C:\Basura\App_ExpresionLamba\App_LambdaCuadrado\bin\Debug\App_LambdaCuadrado.exe.config
+C:\Basura\App_ExpresionLamba\App_LambdaCuadrado\bin\Debug\App_LambdaCuadrado.exe
+C:\Basura\App_ExpresionLamba\App_LambdaCuadrado\bin\Debug\App_LambdaCuadrado.pdb
+C:\Basura\App_ExpresionLamba\App_LambdaCuadrado\obj\Debug\App_LambdaCuadrado.exe
+C:\Basura\App_ExpresionLamba\App_LambdaCuadrado\obj\Debug\App_LambdaCuadrado.pdb

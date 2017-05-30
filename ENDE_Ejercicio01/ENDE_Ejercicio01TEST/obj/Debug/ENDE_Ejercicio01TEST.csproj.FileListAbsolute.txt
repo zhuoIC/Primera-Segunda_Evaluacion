@@ -1,0 +1,5 @@
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01TEST\bin\Debug\ENDE_Ejercicio01TEST.dll
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01TEST\bin\Debug\ENDE_Ejercicio01TEST.pdb
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01TEST\obj\Debug\ENDE_Ejercicio01TEST.csprojResolveAssemblyReference.cache
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01TEST\obj\Debug\ENDE_Ejercicio01TEST.dll
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01TEST\obj\Debug\ENDE_Ejercicio01TEST.pdb

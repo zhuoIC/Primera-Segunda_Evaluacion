@@ -1,0 +1,7 @@
+C:\Basura\EjemploSolucionED\Matematicas2_TEST\obj\Debug\Matematicas2_TEST.csprojResolveAssemblyReference.cache
+C:\Basura\EjemploSolucionED\Matematicas2_TEST\bin\Debug\Matematicas2_TEST.dll
+C:\Basura\EjemploSolucionED\Matematicas2_TEST\bin\Debug\Matematicas2_TEST.pdb
+C:\Basura\EjemploSolucionED\Matematicas2_TEST\bin\Debug\Matematicas.exe
+C:\Basura\EjemploSolucionED\Matematicas2_TEST\bin\Debug\Matematicas.pdb
+C:\Basura\EjemploSolucionED\Matematicas2_TEST\obj\Debug\Matematicas2_TEST.dll
+C:\Basura\EjemploSolucionED\Matematicas2_TEST\obj\Debug\Matematicas2_TEST.pdb

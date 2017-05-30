@@ -1,0 +1,6 @@
+C:\Basura\App_parametros\App_parametros\bin\Debug\App_parametros.exe.config
+C:\Basura\App_parametros\App_parametros\bin\Debug\App_parametros.exe
+C:\Basura\App_parametros\App_parametros\bin\Debug\App_parametros.pdb
+C:\Basura\App_parametros\App_parametros\obj\Debug\App_parametros.csprojResolveAssemblyReference.cache
+C:\Basura\App_parametros\App_parametros\obj\Debug\App_parametros.exe
+C:\Basura\App_parametros\App_parametros\obj\Debug\App_parametros.pdb

@@ -1,0 +1,6 @@
+C:\Basura\ENDE_EjRefactorizar\ENDE_EjRefactorizar\obj\Debug\ENDE_EjRefactorizar.csprojResolveAssemblyReference.cache
+C:\Basura\ENDE_EjRefactorizar\ENDE_EjRefactorizar\bin\Debug\ENDE_EjRefactorizar.dll.config
+C:\Basura\ENDE_EjRefactorizar\ENDE_EjRefactorizar\bin\Debug\ENDE_EjRefactorizar.dll
+C:\Basura\ENDE_EjRefactorizar\ENDE_EjRefactorizar\bin\Debug\ENDE_EjRefactorizar.pdb
+C:\Basura\ENDE_EjRefactorizar\ENDE_EjRefactorizar\obj\Debug\ENDE_EjRefactorizar.dll
+C:\Basura\ENDE_EjRefactorizar\ENDE_EjRefactorizar\obj\Debug\ENDE_EjRefactorizar.pdb

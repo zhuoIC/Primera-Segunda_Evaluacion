@@ -1,0 +1,6 @@
+C:\Basura\EjercicioDeRefactorizacion\EjercicioDeRefactorizacionR\bin\Debug\EjercicioDeRefactorizacionR.exe.config
+C:\Basura\EjercicioDeRefactorizacion\EjercicioDeRefactorizacionR\bin\Debug\EjercicioDeRefactorizacionR.exe
+C:\Basura\EjercicioDeRefactorizacion\EjercicioDeRefactorizacionR\bin\Debug\EjercicioDeRefactorizacionR.pdb
+C:\Basura\EjercicioDeRefactorizacion\EjercicioDeRefactorizacionR\obj\Debug\EjercicioDeRefactorizacionR.csprojResolveAssemblyReference.cache
+C:\Basura\EjercicioDeRefactorizacion\EjercicioDeRefactorizacionR\obj\Debug\EjercicioDeRefactorizacionR.exe
+C:\Basura\EjercicioDeRefactorizacion\EjercicioDeRefactorizacionR\obj\Debug\EjercicioDeRefactorizacionR.pdb

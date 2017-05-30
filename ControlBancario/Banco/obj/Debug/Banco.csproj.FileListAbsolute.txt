@@ -1,0 +1,6 @@
+C:\Basura\ControlBancario\Banco\bin\Debug\Banco.exe.config
+C:\Basura\ControlBancario\Banco\bin\Debug\Banco.exe
+C:\Basura\ControlBancario\Banco\bin\Debug\Banco.pdb
+C:\Basura\ControlBancario\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Basura\ControlBancario\Banco\obj\Debug\Banco.exe
+C:\Basura\ControlBancario\Banco\obj\Debug\Banco.pdb

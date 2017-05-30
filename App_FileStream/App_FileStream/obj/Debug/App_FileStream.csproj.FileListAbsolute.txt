@@ -1,0 +1,6 @@
+C:\Basura\App_FileStream\App_FileStream\bin\Debug\App_FileStream.exe.config
+C:\Basura\App_FileStream\App_FileStream\bin\Debug\App_FileStream.exe
+C:\Basura\App_FileStream\App_FileStream\bin\Debug\App_FileStream.pdb
+C:\Basura\App_FileStream\App_FileStream\obj\Debug\App_FileStream.csprojResolveAssemblyReference.cache
+C:\Basura\App_FileStream\App_FileStream\obj\Debug\App_FileStream.exe
+C:\Basura\App_FileStream\App_FileStream\obj\Debug\App_FileStream.pdb

@@ -1,0 +1,6 @@
+C:\Basura\array\Clase_Array\bin\Debug\Clase_Array.exe.config
+C:\Basura\array\Clase_Array\bin\Debug\Clase_Array.exe
+C:\Basura\array\Clase_Array\bin\Debug\Clase_Array.pdb
+C:\Basura\array\Clase_Array\obj\Debug\Clase_Array.csprojResolveAssemblyReference.cache
+C:\Basura\array\Clase_Array\obj\Debug\Clase_Array.exe
+C:\Basura\array\Clase_Array\obj\Debug\Clase_Array.pdb

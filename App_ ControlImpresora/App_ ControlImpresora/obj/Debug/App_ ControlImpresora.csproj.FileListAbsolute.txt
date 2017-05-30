@@ -1,0 +1,6 @@
+C:\Basura\App_ ControlImpresora\App_ ControlImpresora\bin\Debug\App_ ControlImpresora.exe.config
+C:\Basura\App_ ControlImpresora\App_ ControlImpresora\bin\Debug\App_ ControlImpresora.exe
+C:\Basura\App_ ControlImpresora\App_ ControlImpresora\bin\Debug\App_ ControlImpresora.pdb
+C:\Basura\App_ ControlImpresora\App_ ControlImpresora\obj\Debug\App_ ControlImpresora.csprojResolveAssemblyReference.cache
+C:\Basura\App_ ControlImpresora\App_ ControlImpresora\obj\Debug\App_ ControlImpresora.exe
+C:\Basura\App_ ControlImpresora\App_ ControlImpresora\obj\Debug\App_ ControlImpresora.pdb

@@ -1,0 +1,6 @@
+C:\Basura\array\MatricesDentadas\bin\Debug\MatricesDentadas.exe.config
+C:\Basura\array\MatricesDentadas\bin\Debug\MatricesDentadas.exe
+C:\Basura\array\MatricesDentadas\bin\Debug\MatricesDentadas.pdb
+C:\Basura\array\MatricesDentadas\obj\Debug\MatricesDentadas.csprojResolveAssemblyReference.cache
+C:\Basura\array\MatricesDentadas\obj\Debug\MatricesDentadas.exe
+C:\Basura\array\MatricesDentadas\obj\Debug\MatricesDentadas.pdb

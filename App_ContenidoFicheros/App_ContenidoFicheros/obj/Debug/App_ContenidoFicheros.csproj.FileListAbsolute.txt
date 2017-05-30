@@ -1,0 +1,6 @@
+C:\Basura\App_ContenidoFicheros\App_ContenidoFicheros\bin\Debug\App_ContenidoFicheros.exe.config
+C:\Basura\App_ContenidoFicheros\App_ContenidoFicheros\bin\Debug\App_ContenidoFicheros.exe
+C:\Basura\App_ContenidoFicheros\App_ContenidoFicheros\bin\Debug\App_ContenidoFicheros.pdb
+C:\Basura\App_ContenidoFicheros\App_ContenidoFicheros\obj\Debug\App_ContenidoFicheros.csprojResolveAssemblyReference.cache
+C:\Basura\App_ContenidoFicheros\App_ContenidoFicheros\obj\Debug\App_ContenidoFicheros.exe
+C:\Basura\App_ContenidoFicheros\App_ContenidoFicheros\obj\Debug\App_ContenidoFicheros.pdb

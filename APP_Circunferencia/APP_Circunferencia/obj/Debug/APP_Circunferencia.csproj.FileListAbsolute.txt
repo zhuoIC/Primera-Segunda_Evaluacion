@@ -1,0 +1,6 @@
+C:\Basura\APP_Circunferencia\APP_Circunferencia\bin\Debug\APP_Circunferencia.exe.config
+C:\Basura\APP_Circunferencia\APP_Circunferencia\bin\Debug\APP_Circunferencia.exe
+C:\Basura\APP_Circunferencia\APP_Circunferencia\bin\Debug\APP_Circunferencia.pdb
+C:\Basura\APP_Circunferencia\APP_Circunferencia\obj\Debug\APP_Circunferencia.csprojResolveAssemblyReference.cache
+C:\Basura\APP_Circunferencia\APP_Circunferencia\obj\Debug\APP_Circunferencia.exe
+C:\Basura\APP_Circunferencia\APP_Circunferencia\obj\Debug\APP_Circunferencia.pdb

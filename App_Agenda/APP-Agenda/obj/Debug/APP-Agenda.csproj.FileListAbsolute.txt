@@ -1,0 +1,6 @@
+C:\Basura\App_Agenda\APP-Agenda\bin\Debug\APP-Agenda.exe.config
+C:\Basura\App_Agenda\APP-Agenda\bin\Debug\APP-Agenda.exe
+C:\Basura\App_Agenda\APP-Agenda\bin\Debug\APP-Agenda.pdb
+C:\Basura\App_Agenda\APP-Agenda\obj\Debug\APP-Agenda.csprojResolveAssemblyReference.cache
+C:\Basura\App_Agenda\APP-Agenda\obj\Debug\APP-Agenda.exe
+C:\Basura\App_Agenda\APP-Agenda\obj\Debug\APP-Agenda.pdb

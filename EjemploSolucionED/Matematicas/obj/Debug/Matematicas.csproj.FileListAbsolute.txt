@@ -1,0 +1,6 @@
+C:\Basura\EjemploSolucionED\Matematicas\bin\Debug\Matematicas.exe.config
+C:\Basura\EjemploSolucionED\Matematicas\bin\Debug\Matematicas.exe
+C:\Basura\EjemploSolucionED\Matematicas\bin\Debug\Matematicas.pdb
+C:\Basura\EjemploSolucionED\Matematicas\obj\Debug\Matematicas.csprojResolveAssemblyReference.cache
+C:\Basura\EjemploSolucionED\Matematicas\obj\Debug\Matematicas.exe
+C:\Basura\EjemploSolucionED\Matematicas\obj\Debug\Matematicas.pdb

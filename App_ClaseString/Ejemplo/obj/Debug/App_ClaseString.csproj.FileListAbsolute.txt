@@ -1,0 +1,6 @@
+C:\Basura\App_ClaseString\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Basura\App_ClaseString\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Basura\App_ClaseString\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Basura\App_ClaseString\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Basura\App_ClaseString\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Basura\App_ClaseString\Ejemplo\obj\Debug\App_ClaseString.csprojResolveAssemblyReference.cache

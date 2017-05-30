@@ -1,0 +1,5 @@
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01Refactorizado\bin\Debug\ENDE_Ejercicio01Refactorizado.dll
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01Refactorizado\bin\Debug\ENDE_Ejercicio01Refactorizado.pdb
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01Refactorizado\obj\Debug\ENDE_Ejercicio01Refactorizado.csprojResolveAssemblyReference.cache
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01Refactorizado\obj\Debug\ENDE_Ejercicio01Refactorizado.dll
+C:\Basura\ENDE_Ejercicio01\ENDE_Ejercicio01Refactorizado\obj\Debug\ENDE_Ejercicio01Refactorizado.pdb

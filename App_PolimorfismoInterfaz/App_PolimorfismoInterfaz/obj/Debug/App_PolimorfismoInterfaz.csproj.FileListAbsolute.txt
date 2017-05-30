@@ -1,0 +1,5 @@
+C:\Basura\App_PolimorfismoInterfaz\App_PolimorfismoInterfaz\bin\Debug\App_PolimorfismoInterfaz.exe.config
+C:\Basura\App_PolimorfismoInterfaz\App_PolimorfismoInterfaz\bin\Debug\App_PolimorfismoInterfaz.exe
+C:\Basura\App_PolimorfismoInterfaz\App_PolimorfismoInterfaz\bin\Debug\App_PolimorfismoInterfaz.pdb
+C:\Basura\App_PolimorfismoInterfaz\App_PolimorfismoInterfaz\obj\Debug\App_PolimorfismoInterfaz.exe
+C:\Basura\App_PolimorfismoInterfaz\App_PolimorfismoInterfaz\obj\Debug\App_PolimorfismoInterfaz.pdb

@@ -1,0 +1,6 @@
+C:\Basura\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Basura\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Basura\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Basura\Prueba\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Basura\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Basura\Prueba\Prueba\obj\Debug\Prueba.pdb

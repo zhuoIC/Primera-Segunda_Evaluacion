@@ -1,0 +1,6 @@
+C:\Basura\EjemploSolucionED\Biologia\bin\Debug\Biologia.exe.config
+C:\Basura\EjemploSolucionED\Biologia\bin\Debug\Biologia.exe
+C:\Basura\EjemploSolucionED\Biologia\bin\Debug\Biologia.pdb
+C:\Basura\EjemploSolucionED\Biologia\obj\Debug\Biologia.csprojResolveAssemblyReference.cache
+C:\Basura\EjemploSolucionED\Biologia\obj\Debug\Biologia.exe
+C:\Basura\EjemploSolucionED\Biologia\obj\Debug\Biologia.pdb

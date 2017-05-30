@@ -1,0 +1,6 @@
+C:\Basura\Relacion_3-18\Relacion_3-18\bin\Debug\Relacion_3-18.exe.config
+C:\Basura\Relacion_3-18\Relacion_3-18\bin\Debug\Relacion_3-18.exe
+C:\Basura\Relacion_3-18\Relacion_3-18\bin\Debug\Relacion_3-18.pdb
+C:\Basura\Relacion_3-18\Relacion_3-18\obj\Debug\Relacion_3-18.csprojResolveAssemblyReference.cache
+C:\Basura\Relacion_3-18\Relacion_3-18\obj\Debug\Relacion_3-18.exe
+C:\Basura\Relacion_3-18\Relacion_3-18\obj\Debug\Relacion_3-18.pdb

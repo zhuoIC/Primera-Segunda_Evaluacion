@@ -1,0 +1,13 @@
+<!ELEMENT XXX (AAA+, BBB, CCC, DDD)>
+<!ELEMENT AAA (#PCDATA)>
+<!ATTLIST AAA
+          valor ID #REQUIRED>
+<!ELEMENT BBB (#PCDATA)>
+<!ATTLIST BBB
+          id1 ID #REQUIRED>
+<!ELEMENT CCC (#PCDATA)>
+<!ATTLIST CCC
+          referencia IDREF #REQUIRED>
+<!ELEMENT DDD (#PCDATA)>
+<!ATTLIST DDD
+          referencia IDREFS #REQUIRED>

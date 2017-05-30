@@ -1,0 +1,5 @@
+C:\Basura\App_UsoDelegado1\App_UsoDelegado1\bin\Debug\App_UsoDelegado1.exe.config
+C:\Basura\App_UsoDelegado1\App_UsoDelegado1\bin\Debug\App_UsoDelegado1.exe
+C:\Basura\App_UsoDelegado1\App_UsoDelegado1\bin\Debug\App_UsoDelegado1.pdb
+C:\Basura\App_UsoDelegado1\App_UsoDelegado1\obj\Debug\App_UsoDelegado1.exe
+C:\Basura\App_UsoDelegado1\App_UsoDelegado1\obj\Debug\App_UsoDelegado1.pdb

@@ -1,0 +1,6 @@
+C:\Basura\Relacion_08\Ejercicio_06\bin\Debug\Ejercicio_06.pdb
+C:\Basura\Relacion_08\Ejercicio_06\obj\Debug\Ejercicio_06.csprojResolveAssemblyReference.cache
+C:\Basura\Relacion_08\Ejercicio_06\obj\Debug\Ejercicio_06.pdb
+C:\Basura\Relacion_08\Ejercicio_06\bin\Debug\Ejercicio_06.dll.config
+C:\Basura\Relacion_08\Ejercicio_06\bin\Debug\Ejercicio_06.dll
+C:\Basura\Relacion_08\Ejercicio_06\obj\Debug\Ejercicio_06.dll

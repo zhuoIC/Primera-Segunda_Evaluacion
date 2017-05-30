@@ -1,0 +1,6 @@
+C:\Basura\App_ArchivosBinarios\App_ArchivosBinarios\bin\Debug\App_ArchivosBinarios.exe.config
+C:\Basura\App_ArchivosBinarios\App_ArchivosBinarios\bin\Debug\App_ArchivosBinarios.exe
+C:\Basura\App_ArchivosBinarios\App_ArchivosBinarios\bin\Debug\App_ArchivosBinarios.pdb
+C:\Basura\App_ArchivosBinarios\App_ArchivosBinarios\obj\Debug\App_ArchivosBinarios.csprojResolveAssemblyReference.cache
+C:\Basura\App_ArchivosBinarios\App_ArchivosBinarios\obj\Debug\App_ArchivosBinarios.exe
+C:\Basura\App_ArchivosBinarios\App_ArchivosBinarios\obj\Debug\App_ArchivosBinarios.pdb

@@ -1,0 +1,6 @@
+C:\Basura\App_Match\App_Match\bin\Debug\App_Match.exe.config
+C:\Basura\App_Match\App_Match\bin\Debug\App_Match.exe
+C:\Basura\App_Match\App_Match\bin\Debug\App_Match.pdb
+C:\Basura\App_Match\App_Match\obj\Debug\App_Match.csprojResolveAssemblyReference.cache
+C:\Basura\App_Match\App_Match\obj\Debug\App_Match.exe
+C:\Basura\App_Match\App_Match\obj\Debug\App_Match.pdb

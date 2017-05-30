@@ -1,0 +1,6 @@
+C:\Basura\App_calcular\App_calcular\bin\Debug\App_calcular.exe.config
+C:\Basura\App_calcular\App_calcular\obj\Debug\App_calcular.csprojResolveAssemblyReference.cache
+C:\Basura\App_calcular\App_calcular\bin\Debug\App_calcular.exe
+C:\Basura\App_calcular\App_calcular\bin\Debug\App_calcular.pdb
+C:\Basura\App_calcular\App_calcular\obj\Debug\App_calcular.exe
+C:\Basura\App_calcular\App_calcular\obj\Debug\App_calcular.pdb

@@ -1,0 +1,5 @@
+C:\Basura\App_ExpresionLamba\App_ExpresionLamba\bin\Debug\App_ExpresionLambda.exe.config
+C:\Basura\App_ExpresionLamba\App_ExpresionLamba\bin\Debug\App_ExpresionLambda.exe
+C:\Basura\App_ExpresionLamba\App_ExpresionLamba\bin\Debug\App_ExpresionLambda.pdb
+C:\Basura\App_ExpresionLamba\App_ExpresionLamba\obj\Debug\App_ExpresionLambda.exe
+C:\Basura\App_ExpresionLamba\App_ExpresionLamba\obj\Debug\App_ExpresionLambda.pdb

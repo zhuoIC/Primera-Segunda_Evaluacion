@@ -1,0 +1,5 @@
+C:\Basura\App_ClaseConForeach\App_ClaseConForeach\bin\Debug\App_ClaseConForeach.exe.config
+C:\Basura\App_ClaseConForeach\App_ClaseConForeach\bin\Debug\App_ClaseConForeach.exe
+C:\Basura\App_ClaseConForeach\App_ClaseConForeach\bin\Debug\App_ClaseConForeach.pdb
+C:\Basura\App_ClaseConForeach\App_ClaseConForeach\obj\Debug\App_ClaseConForeach.exe
+C:\Basura\App_ClaseConForeach\App_ClaseConForeach\obj\Debug\App_ClaseConForeach.pdb

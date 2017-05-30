@@ -1,0 +1,4 @@
+Esto es un línea para el fichero
+Y esta es la segunda
+
+Por fin la última línea

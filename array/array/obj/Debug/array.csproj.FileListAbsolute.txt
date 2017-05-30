@@ -1,0 +1,6 @@
+C:\Basura\array\array\bin\Debug\array.exe.config
+C:\Basura\array\array\bin\Debug\array.exe
+C:\Basura\array\array\bin\Debug\array.pdb
+C:\Basura\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+C:\Basura\array\array\obj\Debug\array.exe
+C:\Basura\array\array\obj\Debug\array.pdb

@@ -1,0 +1,6 @@
+C:\Basura\App_DirectoryInfo\App_DirectoryInfo\bin\Debug\App_DirectoryInfo.exe.config
+C:\Basura\App_DirectoryInfo\App_DirectoryInfo\bin\Debug\App_DirectoryInfo.exe
+C:\Basura\App_DirectoryInfo\App_DirectoryInfo\bin\Debug\App_DirectoryInfo.pdb
+C:\Basura\App_DirectoryInfo\App_DirectoryInfo\obj\Debug\App_DirectoryInfo.csprojResolveAssemblyReference.cache
+C:\Basura\App_DirectoryInfo\App_DirectoryInfo\obj\Debug\App_DirectoryInfo.exe
+C:\Basura\App_DirectoryInfo\App_DirectoryInfo\obj\Debug\App_DirectoryInfo.pdb

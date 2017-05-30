@@ -1,0 +1,3 @@
+C:\Basura\App_gestionFichas\App_gestionFichas\bin\Debug\App_gestionFichas.exe.config
+C:\Basura\App_gestionFichas\App_gestionFichas\obj\Debug\App_gestionFichas.exe
+C:\Basura\App_gestionFichas\App_gestionFichas\obj\Debug\App_gestionFichas.pdb

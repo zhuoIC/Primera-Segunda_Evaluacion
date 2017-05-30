@@ -1,0 +1,6 @@
+C:\Basura\Proyecto_color\Proyecto_color\bin\Debug\Proyecto_color.exe.config
+C:\Basura\Proyecto_color\Proyecto_color\bin\Debug\Proyecto_color.exe
+C:\Basura\Proyecto_color\Proyecto_color\bin\Debug\Proyecto_color.pdb
+C:\Basura\Proyecto_color\Proyecto_color\obj\Debug\Proyecto_color.csprojResolveAssemblyReference.cache
+C:\Basura\Proyecto_color\Proyecto_color\obj\Debug\Proyecto_color.exe
+C:\Basura\Proyecto_color\Proyecto_color\obj\Debug\Proyecto_color.pdb

@@ -1,0 +1,6 @@
+C:\Basura\array\matrices\bin\Debug\matrices.exe.config
+C:\Basura\array\matrices\bin\Debug\matrices.exe
+C:\Basura\array\matrices\bin\Debug\matrices.pdb
+C:\Basura\array\matrices\obj\Debug\matrices.csprojResolveAssemblyReference.cache
+C:\Basura\array\matrices\obj\Debug\matrices.exe
+C:\Basura\array\matrices\obj\Debug\matrices.pdb

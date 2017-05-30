@@ -1,0 +1,6 @@
+C:\Basura\App_gestionFichas\App_Stack\bin\Debug\App_Stack.exe.config
+C:\Basura\App_gestionFichas\App_Stack\bin\Debug\App_Stack.exe
+C:\Basura\App_gestionFichas\App_Stack\bin\Debug\App_Stack.pdb
+C:\Basura\App_gestionFichas\App_Stack\obj\Debug\App_Stack.csprojResolveAssemblyReference.cache
+C:\Basura\App_gestionFichas\App_Stack\obj\Debug\App_Stack.exe
+C:\Basura\App_gestionFichas\App_Stack\obj\Debug\App_Stack.pdb

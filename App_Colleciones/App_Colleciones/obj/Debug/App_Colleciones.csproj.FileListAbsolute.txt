@@ -1,0 +1,6 @@
+C:\Basura\App_Colleciones\App_Colleciones\bin\Debug\App_Colleciones.exe.config
+C:\Basura\App_Colleciones\App_Colleciones\obj\Debug\App_Colleciones.csprojResolveAssemblyReference.cache
+C:\Basura\App_Colleciones\App_Colleciones\bin\Debug\App_Colleciones.exe
+C:\Basura\App_Colleciones\App_Colleciones\bin\Debug\App_Colleciones.pdb
+C:\Basura\App_Colleciones\App_Colleciones\obj\Debug\App_Colleciones.exe
+C:\Basura\App_Colleciones\App_Colleciones\obj\Debug\App_Colleciones.pdb

@@ -1,0 +1,6 @@
+C:\Basura\App_jugandoConTipos\App_jugandoConTipos\bin\Debug\App_jugandoConTipos.exe.config
+C:\Basura\App_jugandoConTipos\App_jugandoConTipos\bin\Debug\App_jugandoConTipos.exe
+C:\Basura\App_jugandoConTipos\App_jugandoConTipos\bin\Debug\App_jugandoConTipos.pdb
+C:\Basura\App_jugandoConTipos\App_jugandoConTipos\obj\Debug\App_jugandoConTipos.csprojResolveAssemblyReference.cache
+C:\Basura\App_jugandoConTipos\App_jugandoConTipos\obj\Debug\App_jugandoConTipos.exe
+C:\Basura\App_jugandoConTipos\App_jugandoConTipos\obj\Debug\App_jugandoConTipos.pdb

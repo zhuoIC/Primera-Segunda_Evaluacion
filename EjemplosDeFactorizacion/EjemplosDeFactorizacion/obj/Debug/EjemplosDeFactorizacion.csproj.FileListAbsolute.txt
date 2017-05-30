@@ -1,0 +1,6 @@
+C:\Basura\EjemplosDeFactorizacion\EjemplosDeFactorizacion\bin\Debug\EjemplosDeFactorizacion.exe.config
+C:\Basura\EjemplosDeFactorizacion\EjemplosDeFactorizacion\bin\Debug\EjemplosDeFactorizacion.exe
+C:\Basura\EjemplosDeFactorizacion\EjemplosDeFactorizacion\bin\Debug\EjemplosDeFactorizacion.pdb
+C:\Basura\EjemplosDeFactorizacion\EjemplosDeFactorizacion\obj\Debug\EjemplosDeFactorizacion.csprojResolveAssemblyReference.cache
+C:\Basura\EjemplosDeFactorizacion\EjemplosDeFactorizacion\obj\Debug\EjemplosDeFactorizacion.exe
+C:\Basura\EjemplosDeFactorizacion\EjemplosDeFactorizacion\obj\Debug\EjemplosDeFactorizacion.pdb

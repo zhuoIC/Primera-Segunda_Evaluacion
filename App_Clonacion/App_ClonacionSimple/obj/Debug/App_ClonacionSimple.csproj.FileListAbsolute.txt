@@ -1,0 +1,6 @@
+C:\Basura\App_Clonacion\App_ClonacionSimple\bin\Debug\App_ClonacionSimple.exe.config
+C:\Basura\App_Clonacion\App_ClonacionSimple\bin\Debug\App_ClonacionSimple.exe
+C:\Basura\App_Clonacion\App_ClonacionSimple\bin\Debug\App_ClonacionSimple.pdb
+C:\Basura\App_Clonacion\App_ClonacionSimple\obj\Debug\App_ClonacionSimple.csprojResolveAssemblyReference.cache
+C:\Basura\App_Clonacion\App_ClonacionSimple\obj\Debug\App_ClonacionSimple.exe
+C:\Basura\App_Clonacion\App_ClonacionSimple\obj\Debug\App_ClonacionSimple.pdb

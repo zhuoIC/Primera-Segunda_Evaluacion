@@ -1,0 +1,7 @@
+C:\Basura\App_UsoAgendaDLL\App_UsoAgendaDLL\bin\Debug\App_UsoAgendaDLL.exe.config
+C:\Basura\App_UsoAgendaDLL\App_UsoAgendaDLL\bin\Debug\App_UsoAgendaDLL.exe
+C:\Basura\App_UsoAgendaDLL\App_UsoAgendaDLL\bin\Debug\App_UsoAgendaDLL.pdb
+C:\Basura\App_UsoAgendaDLL\App_UsoAgendaDLL\obj\Debug\App_UsoAgendaDLL.csprojResolveAssemblyReference.cache
+C:\Basura\App_UsoAgendaDLL\App_UsoAgendaDLL\obj\Debug\App_UsoAgendaDLL.exe
+C:\Basura\App_UsoAgendaDLL\App_UsoAgendaDLL\obj\Debug\App_UsoAgendaDLL.pdb
+C:\Basura\App_UsoAgendaDLL\App_UsoAgendaDLL\bin\Debug\App_Aplicacion.dll

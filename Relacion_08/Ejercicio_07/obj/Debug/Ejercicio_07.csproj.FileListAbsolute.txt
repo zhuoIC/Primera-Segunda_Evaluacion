@@ -1,0 +1,6 @@
+C:\Basura\Relacion_08\Ejercicio_07\bin\Debug\Ejercicio_07.exe.config
+C:\Basura\Relacion_08\Ejercicio_07\bin\Debug\Ejercicio_07.exe
+C:\Basura\Relacion_08\Ejercicio_07\bin\Debug\Ejercicio_07.pdb
+C:\Basura\Relacion_08\Ejercicio_07\obj\Debug\Ejercicio_07.csprojResolveAssemblyReference.cache
+C:\Basura\Relacion_08\Ejercicio_07\obj\Debug\Ejercicio_07.exe
+C:\Basura\Relacion_08\Ejercicio_07\obj\Debug\Ejercicio_07.pdb

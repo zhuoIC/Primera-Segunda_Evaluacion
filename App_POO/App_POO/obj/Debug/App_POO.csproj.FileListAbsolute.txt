@@ -1,0 +1,6 @@
+C:\Basura\App_POO\App_POO\bin\Debug\App_POO.exe.config
+C:\Basura\App_POO\App_POO\obj\Debug\App_POO.csprojResolveAssemblyReference.cache
+C:\Basura\App_POO\App_POO\bin\Debug\App_POO.exe
+C:\Basura\App_POO\App_POO\bin\Debug\App_POO.pdb
+C:\Basura\App_POO\App_POO\obj\Debug\App_POO.exe
+C:\Basura\App_POO\App_POO\obj\Debug\App_POO.pdb

@@ -1,0 +1,6 @@
+C:\Basura\Prueba clase baraja\Prueba clase baraja\bin\Debug\Prueba clase baraja.exe.config
+C:\Basura\Prueba clase baraja\Prueba clase baraja\obj\Debug\Prueba clase baraja.csprojResolveAssemblyReference.cache
+C:\Basura\Prueba clase baraja\Prueba clase baraja\bin\Debug\Prueba clase baraja.exe
+C:\Basura\Prueba clase baraja\Prueba clase baraja\bin\Debug\Prueba clase baraja.pdb
+C:\Basura\Prueba clase baraja\Prueba clase baraja\obj\Debug\Prueba clase baraja.exe
+C:\Basura\Prueba clase baraja\Prueba clase baraja\obj\Debug\Prueba clase baraja.pdb

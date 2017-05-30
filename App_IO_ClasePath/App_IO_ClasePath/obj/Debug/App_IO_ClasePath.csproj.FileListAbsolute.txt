@@ -1,0 +1,6 @@
+C:\Basura\App_IO_ClasePath\App_IO_ClasePath\bin\Debug\App_IO_ClasePath.exe.config
+C:\Basura\App_IO_ClasePath\App_IO_ClasePath\bin\Debug\App_IO_ClasePath.exe
+C:\Basura\App_IO_ClasePath\App_IO_ClasePath\bin\Debug\App_IO_ClasePath.pdb
+C:\Basura\App_IO_ClasePath\App_IO_ClasePath\obj\Debug\App_IO_ClasePath.csprojResolveAssemblyReference.cache
+C:\Basura\App_IO_ClasePath\App_IO_ClasePath\obj\Debug\App_IO_ClasePath.exe
+C:\Basura\App_IO_ClasePath\App_IO_ClasePath\obj\Debug\App_IO_ClasePath.pdb

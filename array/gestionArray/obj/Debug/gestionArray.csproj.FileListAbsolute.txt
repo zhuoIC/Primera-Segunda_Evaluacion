@@ -1,0 +1,6 @@
+C:\Basura\array\gestionArray\bin\Debug\gestionArray.exe.config
+C:\Basura\array\gestionArray\bin\Debug\gestionArray.exe
+C:\Basura\array\gestionArray\bin\Debug\gestionArray.pdb
+C:\Basura\array\gestionArray\obj\Debug\gestionArray.csprojResolveAssemblyReference.cache
+C:\Basura\array\gestionArray\obj\Debug\gestionArray.exe
+C:\Basura\array\gestionArray\obj\Debug\gestionArray.pdb

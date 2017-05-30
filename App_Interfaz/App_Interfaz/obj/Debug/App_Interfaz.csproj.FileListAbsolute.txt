@@ -1,0 +1,6 @@
+C:\Basura\App_Interfaz\App_Interfaz\bin\Debug\App_Interfaz.exe.config
+C:\Basura\App_Interfaz\App_Interfaz\bin\Debug\App_Interfaz.exe
+C:\Basura\App_Interfaz\App_Interfaz\bin\Debug\App_Interfaz.pdb
+C:\Basura\App_Interfaz\App_Interfaz\obj\Debug\App_Interfaz.csprojResolveAssemblyReference.cache
+C:\Basura\App_Interfaz\App_Interfaz\obj\Debug\App_Interfaz.exe
+C:\Basura\App_Interfaz\App_Interfaz\obj\Debug\App_Interfaz.pdb

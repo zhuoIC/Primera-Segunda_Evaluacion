@@ -1,0 +1,6 @@
+C:\Basura\Pecera\PeceraSinArray\bin\Debug\PeceraSinArray.exe.config
+C:\Basura\Pecera\PeceraSinArray\bin\Debug\PeceraSinArray.exe
+C:\Basura\Pecera\PeceraSinArray\bin\Debug\PeceraSinArray.pdb
+C:\Basura\Pecera\PeceraSinArray\obj\Debug\PeceraSinArray.csprojResolveAssemblyReference.cache
+C:\Basura\Pecera\PeceraSinArray\obj\Debug\PeceraSinArray.exe
+C:\Basura\Pecera\PeceraSinArray\obj\Debug\PeceraSinArray.pdb

@@ -1,0 +1,6 @@
+C:\Basura\App_StreamReader\App_StreamReader\bin\Debug\App_StreamReader.exe.config
+C:\Basura\App_StreamReader\App_StreamReader\bin\Debug\App_StreamReader.exe
+C:\Basura\App_StreamReader\App_StreamReader\bin\Debug\App_StreamReader.pdb
+C:\Basura\App_StreamReader\App_StreamReader\obj\Debug\App_StreamReader.csprojResolveAssemblyReference.cache
+C:\Basura\App_StreamReader\App_StreamReader\obj\Debug\App_StreamReader.exe
+C:\Basura\App_StreamReader\App_StreamReader\obj\Debug\App_StreamReader.pdb

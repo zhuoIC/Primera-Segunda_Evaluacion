@@ -1,0 +1,6 @@
+C:\Basura\App_ExpresionLamba\App_VrblsExternas\bin\Debug\App_VrblsExternas.exe.config
+C:\Basura\App_ExpresionLamba\App_VrblsExternas\bin\Debug\App_VrblsExternas.exe
+C:\Basura\App_ExpresionLamba\App_VrblsExternas\bin\Debug\App_VrblsExternas.pdb
+C:\Basura\App_ExpresionLamba\App_VrblsExternas\obj\Debug\App_VrblsExternas.csprojResolveAssemblyReference.cache
+C:\Basura\App_ExpresionLamba\App_VrblsExternas\obj\Debug\App_VrblsExternas.exe
+C:\Basura\App_ExpresionLamba\App_VrblsExternas\obj\Debug\App_VrblsExternas.pdb

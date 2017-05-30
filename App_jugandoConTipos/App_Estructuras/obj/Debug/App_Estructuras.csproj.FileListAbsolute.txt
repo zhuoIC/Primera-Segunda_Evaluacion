@@ -1,0 +1,6 @@
+C:\Basura\App_jugandoConTipos\App_Estructuras\bin\Debug\App_Estructuras.exe.config
+C:\Basura\App_jugandoConTipos\App_Estructuras\bin\Debug\App_Estructuras.exe
+C:\Basura\App_jugandoConTipos\App_Estructuras\bin\Debug\App_Estructuras.pdb
+C:\Basura\App_jugandoConTipos\App_Estructuras\obj\Debug\App_Estructuras.csprojResolveAssemblyReference.cache
+C:\Basura\App_jugandoConTipos\App_Estructuras\obj\Debug\App_Estructuras.exe
+C:\Basura\App_jugandoConTipos\App_Estructuras\obj\Debug\App_Estructuras.pdb

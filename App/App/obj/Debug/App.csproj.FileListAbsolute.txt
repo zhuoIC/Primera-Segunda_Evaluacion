@@ -1,0 +1,6 @@
+C:\Basura\App\App\bin\Debug\App.exe.config
+C:\Basura\App\App\bin\Debug\App.exe
+C:\Basura\App\App\bin\Debug\App.pdb
+C:\Basura\App\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Basura\App\App\obj\Debug\App.exe
+C:\Basura\App\App\obj\Debug\App.pdb

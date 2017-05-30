@@ -1,0 +1,6 @@
+C:\Basura\App_StringBuilder\App_StringBuilder\bin\Debug\App_StringBuilder.exe.config
+C:\Basura\App_StringBuilder\App_StringBuilder\bin\Debug\App_StringBuilder.exe
+C:\Basura\App_StringBuilder\App_StringBuilder\bin\Debug\App_StringBuilder.pdb
+C:\Basura\App_StringBuilder\App_StringBuilder\obj\Debug\App_StringBuilder.csprojResolveAssemblyReference.cache
+C:\Basura\App_StringBuilder\App_StringBuilder\obj\Debug\App_StringBuilder.exe
+C:\Basura\App_StringBuilder\App_StringBuilder\obj\Debug\App_StringBuilder.pdb
